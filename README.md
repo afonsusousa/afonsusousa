@@ -1,16 +1,21 @@
-## Hi there 👋
+# Afonso Sousa (@afonsusousa)
 
-<!--
-**afonsusousa/afonsusousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a FEUP and 42Porto Student building low-level software as ****.
 
-Here are some ideas to get you started:
+## What I’m focused on
+- **Driver and Low-level Software** - currently building a full fleged Linux alternative for my Keyboard's firmware. 
+- **Diving deeper into the Rust ecosystem** - and keep ruining my every return to C++.
+- **Inner Peace**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+**Languages:** C / C++ / Rust
+
+## Highlights
+- ⭐ **MrWorldWide** — Linux alternative for the AK820 Pro firmware, born simple but ambitious.
+- ⭐ **FdF** — A WireFrame viewer gone disco/dancing.
+- ⭐ **Minishell** — Bash Clone with almost 1:1 feature parity within its scope.
+
+
+## Find me
+- [GitHub]: [https://github.com/afonsusousa]
+- [LinkedIn]: [www.linkedin.com/in/]
