@@ -1,6 +1,6 @@
 # Afonso Sousa (@afonsusousa)
 
-I'm a FEUP and 42Porto Student building low-level software as ****.
+I'm a FEUP and 42Porto Student building low-level software as a creative outlet.
 
 ## What I’m focused on
 - **Driver and Low-level Software** - currently building a full-fledged Linux alternative for my Keyboard's firmware. 
